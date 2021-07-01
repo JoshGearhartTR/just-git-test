@@ -1,0 +1,32 @@
+commit 484c1e76b769fb2a8355bf6b8479ed0294216b93
+Author: Josh Gearhart <joshua.gearhart@thomsonreuters.com>
+Date:   Thu Jul 1 10:18:44 2021 -0400
+
+    Commit. This is NOT a check-in
+
+commit ff419a42096867fd002a336b7d4974a3a2d003e6
+Author: Josh Gearhart <joshua.gearhart@thomsonreuters.com>
+Date:   Tue Apr 24 16:09:56 2018 -0400
+
+    first commit
+
+commit aa2bf75c1d965e881d5a61d7aba540d5b0839c1b
+Merge: daf9fa4 71e1ede
+Author: jdgearhart <36539247+jdgearhart@users.noreply.github.com>
+Date:   Tue Apr 24 16:21:27 2018 -0400
+
+    Merge pull request #1 from jdgearhart/beta_branch
+    
+    beta checkin
+
+commit 71e1edeaab920c6b7f3e401be3bad83ce57f09e1
+Author: Josh Gearhart <joshua.gearhart@thomsonreuters.com>
+Date:   Tue Apr 24 16:15:51 2018 -0400
+
+    beta checkin
+
+commit daf9fa47dcf18a840affcf3358bae7192abab109
+Author: jdgearhart <36539247+jdgearhart@users.noreply.github.com>
+Date:   Tue Apr 24 16:08:21 2018 -0400
+
+    Initial commit
